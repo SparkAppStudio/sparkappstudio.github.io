@@ -506,3 +506,9 @@ ul {
 img.team-image {
     border-radius: 50%;
 }
+
+.copyright {
+  color: white;
+  font-size: 12px;
+  padding-right: 7px;
+}
