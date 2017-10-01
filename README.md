@@ -1,6 +1,9 @@
 # sparkappstudio.github.io
 Spark App Studio Website Landing Page
 
+Uses Bootstrap framework: https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
+******
 
 # DNS
 Registeed with Google.
@@ -22,3 +25,4 @@ https://help.github.com/articles/about-supported-custom-domains/
 
 `dig www.sparkappstudio.com +nostats +nocomments +nocmd`
 Shows the www pointing to the bare, and pointing to the GitHub IPv4 Addresses
+
