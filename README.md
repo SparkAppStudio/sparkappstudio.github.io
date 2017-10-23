@@ -6,7 +6,7 @@ Uses Bootstrap framework: https://getbootstrap.com/docs/4.0/getting-started/intr
 ******
 
 # DNS
-Registeed with Google.
+Registered with Google.
 http://domains.google.com
 
 Since we're using Github pages, we just point our dns records to github's servers.
