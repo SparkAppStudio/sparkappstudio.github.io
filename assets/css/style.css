@@ -255,6 +255,12 @@ body {
     line-height: 40px;
     max-width: 400px;
     margin: auto;
+    padding-bottom: 10px;
+}
+
+.imac-section-author {
+    font-weight: 700;
+    text-indent: 50px;
     padding-bottom: 40px;
 }
 
