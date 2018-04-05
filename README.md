@@ -13,7 +13,7 @@ Since we're using Github pages, we just point our dns records to github's server
 https://help.github.com/articles/setting-up-an-apex-domain/
 https://help.github.com/articles/setting-up-a-www-subdomain/
 
-The recommend pointing both the apex and the www subdomain, so I've set both of those up.
+They recommend pointing both the apex and the www subdomain, so I've set both of those up.
 You can check the A record with,
 `dig +noall +answer sparkappstudio.com`
 You should see both of the GitHub IPv4 Addresses returned
